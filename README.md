@@ -101,8 +101,6 @@ test
  
  6. Open browser and go to *http://localhost:8080*
 
-## FAQ
-This repo was initially created using `truffle unbox webpack` which is a marriage of [Truffle](http://truffleframework.com/) and a [Webpack](https://webpack.js.org/) setup.
 
 ## Acknowledgements
 The repo has been adapted from the Udacity *decentralized star notary* boiler plate starter code:  [https://github.com/udacity/boilerPlateDAPPproject](https://github.com/udacity/boilerPlateDAPPproject "https://github.com/udacity/boilerPlateDAPPproject")
